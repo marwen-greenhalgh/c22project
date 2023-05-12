@@ -51,7 +51,7 @@ function draw() {
    playerArcher.display();
   // display();
 
-   Title
+  // Title
   fill("#FFFF");
   textAlign("center");
   textSize(40);
